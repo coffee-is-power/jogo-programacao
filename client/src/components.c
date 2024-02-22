@@ -26,3 +26,4 @@ bool draw_button(Rectangle bounds, const char* text, int fontSize, Color bg_colo
     DrawText(text, bounds.x + bounds.width / 2 - MeasureText(text, fontSize) / 2, fontSize, text_color);
     return check_rectangle_clicked(bounds, MOUSE_LEFT_BUTTON);
 }
+
