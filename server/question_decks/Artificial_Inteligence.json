@@ -1,0 +1,887 @@
+{
+    "display_name": "Inteligência Artificial",
+    "questions": [
+        {
+            "question": "O que é Inteligência Artificial (IA)?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Inteligência artificial refere-se à capacidade de máquinas executarem tarefas que normalmente exigiriam inteligência humana."
+                },
+                {
+                    "type": "text",
+                    "text": "Inteligência artificial é um tipo de computador que pode pensar e aprender como um humano."
+                },
+                {
+                    "type": "text",
+                    "text": "Inteligência artificial é um termo usado para descrever robôs que se comportam como humanos."
+                }
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Quais são os principais tipos de aprendizado de máquina?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Aprendizado de linguagem e aprendizado de habilidades."
+                },
+                {
+                    "type": "text",
+                    "text": "Aprendizado supervisionado, aprendizado não supervisionado e aprendizado por reforço."
+                },
+                {
+                    "type": "text",
+                    "text": "Aprendizado visual e aprendizado auditivo."
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é aprendizado supervisionado?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um tipo de aprendizado de máquina em que o algoritmo é treinado com entradas e suas saídas correspondentes, permitindo que ele aprenda a mapear entradas para saídas."
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de aprendizado de máquina em que o algoritmo é deixado sozinho para encontrar estrutura em seus inputs."
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de aprendizado de máquina em que o algoritmo é recompensado ou punido com base em suas ações."
+                }
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "O que é aprendizado não supervisionado?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um tipo de aprendizado de máquina em que o algoritmo é treinado com entradas e suas saídas correspondentes, permitindo que ele aprenda a mapear entradas para saídas."
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de aprendizado de máquina em que o algoritmo é deixado sozinho para encontrar estrutura em seus inputs."
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de aprendizado de máquina em que o algoritmo é recompensado ou punido com base em suas ações."
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é aprendizado por reforço?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um tipo de aprendizado de máquina em que o algoritmo é treinado com entradas e suas saídas correspondentes, permitindo que ele aprenda a mapear entradas para saídas."
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de aprendizado de máquina em que o algoritmo é deixado sozinho para encontrar estrutura em seus inputs."
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de aprendizado de máquina em que o algoritmo é recompensado ou punido com base em suas ações."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "Quais são alguns exemplos de aplicações de IA na vida cotidiana?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Reconhecimento facial, assistentes de voz e recomendações de produtos."
+                },
+                {
+                    "type": "text",
+                    "text": "Navegação GPS, reconhecimento de voz e previsões do tempo."
+                },
+                {
+                    "type": "text",
+                    "text": "Jogos de computador, contadores de passos e lembretes de calendário."
+                }
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "O que é uma rede neural artificial?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um tipo de inteligência artificial que imita a estrutura e a função do cérebro humano, consistindo em neurônios artificiais interconectados."
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo de aprendizado de máquina que utiliza técnicas estatísticas para encontrar padrões em grandes conjuntos de dados."
+                },
+                {
+                    "type": "text",
+                    "text": "Um sistema de computador que pode entender, aprender e se adaptar como um humano."
+                }
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "O que é aprendizado profundo (deep learning)?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um tipo de aprendizado de máquina que usa camadas de redes neurais para aprender representações cada vez mais complexas de dados."
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo de aprendizado de máquina que utiliza técnicas estatísticas para encontrar padrões em grandes conjuntos de dados."
+                },
+                {
+                    "type": "text",
+                    "text": "Um sistema de inteligência artificial que pode entender, aprender e se adaptar como um humano."
+                }
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "O que é o teste de Turing?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um teste psicológico usado para medir a inteligência de uma pessoa."
+                },
+                {
+                    "type": "text",
+                    "text": "Um teste de personalidade usado para determinar o tipo de inteligência de uma pessoa."
+                },
+                {
+                    "type": "text",
+                    "text": "Um teste proposto por Alan Turing para avaliar se uma máquina pode exibir comportamento inteligente equivalente ou indistinguível do de um ser humano."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um chatbot?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um sistema de inteligência artificial que simula uma conversa humana através de texto ou voz."
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo de aprendizado de máquina que detecta e reconhece padrões em dados não estruturados."
+                },
+                {
+                    "type": "text",
+                    "text": "Um sistema de computador que pode entender, aprender e se adaptar como um humano."
+                }
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "O que é automação?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método usado para ensinar uma máquina a realizar uma tarefa repetitiva."
+                },
+                {
+                    "type": "text",
+                    "text": "Um sistema de inteligência artificial que pode entender, aprender e se adaptar como um humano."
+                },
+                {
+                    "type": "text",
+                    "text": "O processo de substituir atividades humanas por sistemas automáticos."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é IA fraca (ou estreita)?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um sistema de inteligência artificial que pode entender, aprender e se adaptar como um humano."
+                },
+                {
+                    "type": "text",
+                    "text": "Um sistema de inteligência artificial que é especializado em uma tarefa específica e não possui habilidades gerais de pensamento como um ser humano."
+                },
+                {
+                    "type": "text",
+                    "text": "Um sistema de inteligência artificial que excede em habilidades específicas além das capacidades humanas."
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é IA forte (ou geral)?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um sistema de inteligência artificial que pode entender, aprender e se adaptar como um humano."
+                },
+                {
+                    "type": "text",
+                    "text": "Um sistema de inteligência artificial que é especializado em uma tarefa específica e não possui habilidades gerais de pensamento como um ser humano."
+                },
+                {
+                    "type": "text",
+                    "text": "Um sistema de inteligência artificial que excede em habilidades específicas além das capacidades humanas."
+                }
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Quais são os desafios éticos associados à IA?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Perda de empregos, vieses algorítmicos e uso inadequado de dados pessoais."
+                },
+                {
+                    "type": "text",
+                    "text": "Acesso inadequado à Internet, geração de resíduos eletrônicos e dependência excessiva de tecnologia."
+                },
+                {
+                    "type": "text",
+                    "text": "Falha de segurança cibernética, vazamento de informações confidenciais e problemas de compatibilidade de software."
+                }
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "O que é aprendizado transferido (transfer learning)?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método usado para ensinar uma máquina a realizar uma tarefa repetitiva."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método que permite que um modelo de IA pré-treinado seja adaptado para uma tarefa específica com dados adicionais e mínima intervenção humana."
+                },
+                {
+                    "type": "text",
+                    "text": "O processo de substituir atividades humanas por sistemas automáticos."
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é uma rede neural convolucional (CNN)?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um algoritmo de aprendizado de máquina que utiliza técnicas estatísticas para encontrar padrões em grandes conjuntos de dados."
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de inteligência artificial que imita a estrutura e a função do cérebro humano, consistindo em neurônios artificiais interconectados."
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de rede neural projetada para processar dados em grades de imagens, frequentemente usada em tarefas de visão computacional."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um agente inteligente?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um sistema de inteligência artificial que pode entender, aprender e se adaptar como um humano."
+                },
+                {
+                    "type": "text",
+                    "text": "Um dispositivo eletrônico que utiliza IA para realizar tarefas específicas."
+                },
+                {
+                    "type": "text",
+                    "text": "Um sistema que percebe seu ambiente e age de maneira autônoma para alcançar seus objetivos."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é uma árvore de decisão?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um modelo de aprendizado de máquina que consiste em uma rede de neurônios interconectados."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método usado para visualizar os resultados de um modelo de IA."
+                },
+                {
+                    "type": "text",
+                    "text": "Um modelo de aprendizado de máquina que utiliza uma estrutura de árvore para representar decisões e seus possíveis resultados."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é uma linguagem de programação específica para IA?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação que só pode ser entendida por inteligências artificiais."
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação otimizada para o desenvolvimento de sistemas de inteligência artificial."
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação que utiliza IA para automatizar processos de desenvolvimento de software."
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é uma função de ativação em redes neurais?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Uma função matemática que transforma a soma ponderada das entradas de um neurônio em uma saída ativada."
+                },
+                {
+                    "type": "text",
+                    "text": "Uma função usada para determinar a probabilidade de uma ação ser tomada por um agente inteligente."
+                },
+                {
+                    "type": "text",
+                    "text": "Uma função usada para avaliar a qualidade das decisões tomadas por um algoritmo de aprendizado de máquina."
+                }
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "O que é a técnica de clusterização?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método usado para agrupar dados semelhantes em clusters ou grupos."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método usado para reduzir a complexidade de dados."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método usado para identificar padrões em grandes conjuntos de dados."
+                }
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "O que é a técnica de classificação?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método usado para agrupar dados semelhantes em clusters ou grupos."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método usado para reduzir a complexidade de dados."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método usado para atribuir categorias a dados com base em suas características."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é a técnica de regressão?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método usado para agrupar dados semelhantes em clusters ou grupos."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método usado para reduzir a complexidade de dados."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método usado para prever valores contínuos com base em dados históricos."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é a técnica de redução de dimensionalidade?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método usado para agrupar dados semelhantes em clusters ou grupos."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método usado para reduzir a complexidade de dados."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método usado para identificar padrões em grandes conjuntos de dados."
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é a técnica de busca heurística?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método de busca que utiliza métodos aleatórios para encontrar soluções."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de busca que utiliza informações específicas do problema para guiar a exploração do espaço de busca."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de busca que utiliza técnicas de inteligência artificial para encontrar soluções ótimas."
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é a técnica de otimização de enxame de partículas?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método de otimização inspirado no comportamento de enxames de animais, como pássaros e peixes."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de otimização que utiliza técnicas de aprendizado profundo para encontrar soluções ótimas."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de otimização que utiliza informações específicas do problema para guiar a exploração do espaço de busca."
+                }
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "O que é a técnica de algoritmos genéticos?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método de otimização que utiliza técnicas de aprendizado profundo para encontrar soluções ótimas."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de otimização que utiliza informações específicas do problema para guiar a exploração do espaço de busca."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de otimização inspirado no processo de evolução biológica, que utiliza uma população de soluções candidatas e operadores genéticos para encontrar soluções ótimas."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é a técnica de árvores de decisão?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método de aprendizado supervisionado que utiliza redes neurais para prever valores contínuos."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de aprendizado não supervisionado que utiliza redes neurais para encontrar padrões em dados."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de aprendizado supervisionado que utiliza uma estrutura de árvore para representar decisões e seus possíveis resultados."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é uma métrica de avaliação em aprendizado de máquina?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Uma medida usada para avaliar a qualidade de um modelo de IA."
+                },
+                {
+                    "type": "text",
+                    "text": "Uma função usada para transformar dados em uma forma mais útil para a aprendizagem de máquina."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método usado para agrupar dados semelhantes em clusters ou grupos."
+                }
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "O que é overfitting em aprendizado de máquina?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um problema em que um modelo se ajusta demais aos dados de treinamento e não é capaz de generalizar bem para novos dados."
+                },
+                {
+                    "type": "text",
+                    "text": "Um problema em que um modelo não é capaz de se ajustar adequadamente aos dados de treinamento."
+                },
+                {
+                    "type": "text",
+                    "text": "Um problema em que um modelo é muito simples para capturar a estrutura subjacente nos dados de treinamento."
+                }
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "O que é underfitting em aprendizado de máquina?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um problema em que um modelo se ajusta demais aos dados de treinamento e não é capaz de generalizar bem para novos dados."
+                },
+                {
+                    "type": "text",
+                    "text": "Um problema em que um modelo não é capaz de se ajustar adequadamente aos dados de treinamento."
+                },
+                {
+                    "type": "text",
+                    "text": "Um problema em que um modelo é muito simples para capturar a estrutura subjacente nos dados de treinamento."
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é validação cruzada?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método usado para avaliar a qualidade de um modelo de IA."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método usado para transformar dados em uma forma mais útil para a aprendizagem de máquina."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método usado para estimar o desempenho de um modelo de IA em dados não vistos."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é a técnica de bootstrap?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método usado para avaliar a qualidade de um modelo de IA."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método usado para transformar dados em uma forma mais útil para a aprendizagem de máquina."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de reamostragem que envolve a seleção aleatória de subconjuntos de dados com substituição."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é a técnica de bagging?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método de reamostragem que envolve a seleção aleatória de subconjuntos de dados com substituição."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de combinação de vários modelos de IA para melhorar o desempenho preditivo."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de combinação de várias métricas de avaliação para avaliar a qualidade de um modelo de IA."
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é a técnica de boosting?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método de reamostragem que envolve a seleção aleatória de subconjuntos de dados com substituição."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de combinação de vários modelos de IA para melhorar o desempenho preditivo."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de combinação de várias métricas de avaliação para avaliar a qualidade de um modelo de IA."
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é a técnica de feature engineering?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método de reamostragem que envolve a seleção aleatória de subconjuntos de dados com substituição."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de combinação de vários modelos de IA para melhorar o desempenho preditivo."
+                },
+                {
+                    "type": "text",
+                    "text": "Um processo de transformação de dados brutos em características úteis para modelos de IA."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um algoritmo de k-means?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método de reamostragem que envolve a seleção aleatória de subconjuntos de dados com substituição."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de clusterização que divide os dados em k grupos com base em suas características."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de combinação de vários modelos de IA para melhorar o desempenho preditivo."
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é um algoritmo de k-nearest neighbors (KNN)?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método de clusterização que divide os dados em k grupos com base em suas características."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de classificação que atribui rótulos a novos dados com base na maioria dos k vizinhos mais próximos."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de busca que utiliza informações específicas do problema para guiar a exploração do espaço de busca."
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é um algoritmo de árvore de decisão?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método de aprendizado supervisionado que utiliza redes neurais para prever valores contínuos."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de aprendizado não supervisionado que utiliza redes neurais para encontrar padrões em dados."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de aprendizado supervisionado que utiliza uma estrutura de árvore para representar decisões e seus possíveis resultados."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é a técnica de validação out-of-sample?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método usado para avaliar a qualidade de um modelo de IA."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método usado para transformar dados em uma forma mais útil para a aprendizagem de máquina."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de avaliação que testa o desempenho de um modelo em dados que não foram vistos durante o treinamento."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é a técnica de validação in-sample?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método de avaliação que testa o desempenho de um modelo em dados que não foram vistos durante o treinamento."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método usado para transformar dados em uma forma mais útil para a aprendizagem de máquina."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método usado para avaliar a qualidade de um modelo de IA."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é uma função de custo em aprendizado de máquina?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Uma função usada para transformar dados em uma forma mais útil para a aprendizagem de máquina."
+                },
+                {
+                    "type": "text",
+                    "text": "Uma medida usada para avaliar a qualidade de um modelo de IA."
+                },
+                {
+                    "type": "text",
+                    "text": "Uma função usada para quantificar o erro entre as previsões de um modelo e os valores reais."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um modelo de regressão linear?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um modelo de aprendizado de máquina que é treinado com entradas e suas saídas correspondentes, permitindo que ele aprenda a mapear entradas para saídas."
+                },
+                {
+                    "type": "text",
+                    "text": "Um modelo de aprendizado de máquina que é especializado em uma tarefa específica e não possui habilidades gerais de pensamento como um ser humano."
+                },
+                {
+                    "type": "text",
+                    "text": "Um modelo de aprendizado de máquina que utiliza uma função linear para prever valores contínuos."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um modelo de regressão logística?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um modelo de aprendizado de máquina que é treinado com entradas e suas saídas correspondentes, permitindo que ele aprenda a mapear entradas para saídas."
+                },
+                {
+                    "type": "text",
+                    "text": "Um modelo de aprendizado de máquina que utiliza uma função linear para prever valores contínuos."
+                },
+                {
+                    "type": "text",
+                    "text": "Um modelo de aprendizado de máquina que é especializado em uma tarefa específica e não possui habilidades gerais de pensamento como um ser humano."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um modelo de regressão polinomial?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um modelo de aprendizado de máquina que é treinado com entradas e suas saídas correspondentes, permitindo que ele aprenda a mapear entradas para saídas."
+                },
+                {
+                    "type": "text",
+                    "text": "Um modelo de aprendizado de máquina que utiliza uma função linear para prever valores contínuos."
+                },
+                {
+                    "type": "text",
+                    "text": "Um modelo de aprendizado de máquina que utiliza uma função polinomial para prever valores contínuos."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é a técnica de otimização de gradiente descendente?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método de otimização que utiliza informações específicas do problema para guiar a exploração do espaço de busca."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de otimização inspirado no comportamento de enxames de animais, como pássaros e peixes."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de otimização que ajusta os parâmetros de um modelo de aprendizado de máquina iterativamente para minimizar uma função de custo."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é a técnica de otimização de gradiente ascendente?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método de otimização que utiliza informações específicas do problema para guiar a exploração do espaço de busca."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de otimização inspirado no comportamento de enxames de animais, como pássaros e peixes."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de otimização que ajusta os parâmetros de um modelo de aprendizado de máquina iterativamente para maximizar uma função de custo."
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é uma matriz de confusão?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Uma matriz usada para visualizar os resultados de um modelo de IA."
+                },
+                {
+                    "type": "text",
+                    "text": "Uma matriz usada para quantificar o erro entre as previsões de um modelo e os valores reais."
+                },
+                {
+                    "type": "text",
+                    "text": "Uma matriz usada para armazenar dados durante o treinamento de um modelo de IA."
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é a técnica de regularização em aprendizado de máquina?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método de otimização que ajusta os parâmetros de um modelo de aprendizado de máquina iterativamente para minimizar uma função de custo."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método de otimização que utiliza técnicas de aprendizado profundo para encontrar soluções ótimas."
+                },
+                {
+                    "type": "text",
+                    "text": "Um método usado para evitar overfitting, penalizando modelos que são muito complexos."
+                }
+            ],
+            "correctAnswerIndex": 2
+        }
+    ]
+}

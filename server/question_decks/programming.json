@@ -1,0 +1,923 @@
+{
+    "display_name": "Programação",
+    "questions": [
+        {
+            "question": "O que é uma classe em programação orientada a objetos?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um tipo de estrutura de dados"
+                },
+                {
+                    "type": "text",
+                    "text": "Um bloco de código que realiza uma tarefa específica"
+                },
+                {
+                    "type": "text",
+                    "text": "Um modelo para criar objetos que contém métodos e atributos"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "Explique o conceito de herança em programação orientada a objetos.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Uma técnica para esconder a implementação de um objeto"
+                },
+                {
+                    "type": "text",
+                    "text": "A habilidade de um objeto de se comunicar com outro"
+                },
+                {
+                    "type": "text",
+                    "text": "Um mecanismo onde uma classe pode herdar atributos e métodos de outra"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é polimorfismo em programação?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "A capacidade de um objeto ser convertido em outro tipo"
+                },
+                {
+                    "type": "text",
+                    "text": "A habilidade de um objeto ser tratado como outro tipo"
+                },
+                {
+                    "type": "text",
+                    "text": "A capacidade de uma única interface ser utilizada para diferentes tipos"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "Qual é a importância dos comentários em um código de programação?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Facilitar a escrita de código mais rápido"
+                },
+                {
+                    "type": "text",
+                    "text": "Melhorar o desempenho do código"
+                },
+                {
+                    "type": "text",
+                    "text": "Facilitar a compreensão e manutenção do código"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é debugging e por que é importante?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um método para criar interfaces gráficas"
+                },
+                {
+                    "type": "text",
+                    "text": "Um processo para remover bugs e erros do código"
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de linguagem de programação"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é controle de versão e quais são algumas ferramentas comuns utilizadas para isso?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Uma forma de controlar a quantidade de linhas de código em um projeto"
+                },
+                {
+                    "type": "text",
+                    "text": "Um processo para gerenciar e rastrear alterações no código-fonte ao longo do tempo"
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de algoritmo de ordenação"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "Qual é a diferença entre uma chave primária e uma chave estrangeira em um banco de dados?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Chave primária é única para cada registro em uma tabela, enquanto chave estrangeira é única para cada tabela"
+                },
+                {
+                    "type": "text",
+                    "text": "Chave primária é usada para ordenar os registros em uma tabela, enquanto chave estrangeira é usada para relacionar duas tabelas"
+                },
+                {
+                    "type": "text",
+                    "text": "Chave primária é uma senha para acessar o banco de dados, enquanto chave estrangeira é uma senha temporária"
+                }
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "O que é SQL e para que é utilizado?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um sistema operacional para bancos de dados"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação utilizada para criar websites"
+                },
+                {
+                    "type": "text",
+                    "text": "Linguagem de consulta estruturada utilizada para gerenciar dados em bancos de dados relacionais"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é uma API e por que é importante para os desenvolvedores?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um aplicativo para interagir com redes sociais"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma ferramenta para criar interfaces gráficas"
+                },
+                {
+                    "type": "text",
+                    "text": "Interface de Programação de Aplicações, usada para definir métodos de comunicação entre diferentes componentes de software"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é RESTful API?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um tipo de API que utiliza a arquitetura REST (Representational State Transfer) para comunicação entre sistemas"
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de API específico para servidores web"
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de API usado apenas para armazenar e recuperar dados"
+                }
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "O que é uma linguagem de marcação e dê exemplos.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Uma linguagem utilizada para criar interfaces gráficas"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem utilizada para definir a estrutura e o conteúdo de documentos de texto"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem utilizada para programar robôs"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "Qual é a diferença entre HTML e XML?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "HTML é uma linguagem de programação e XML é uma linguagem de marcação"
+                },
+                {
+                    "type": "text",
+                    "text": "HTML é usado para definir a estrutura e o conteúdo de documentos web, enquanto XML é usado para representar dados de forma hierárquica"
+                },
+                {
+                    "type": "text",
+                    "text": "HTML é uma linguagem mais antiga que XML"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é CSS e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um sistema de gerenciamento de conteúdo para websites"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação para interações dinâmicas em páginas web"
+                },
+                {
+                    "type": "text",
+                    "text": "Cascading Style Sheets, usada para estilizar a apresentação de documentos HTML"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é JavaScript e para que é utilizado?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação para criar aplicativos mobile"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação para criar interfaces gráficas"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação de alto nível utilizada principalmente para programação web e interações dinâmicas em páginas web"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "Explique o conceito de DOM (Document Object Model).",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um modelo utilizado para criar bancos de dados"
+                },
+                {
+                    "type": "text",
+                    "text": "Um modelo que define a estrutura e o conteúdo de um documento HTML"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma representação em forma de árvore de todos os elementos de um documento HTML, que pode ser manipulada com JavaScript para alterar dinamicamente o conteúdo e a aparência da página"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é AJAX e para que é utilizado?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um tipo de linguagem de programação para criar jogos online"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma técnica para criar animações em páginas web"
+                },
+                {
+                    "type": "text",
+                    "text": "Asynchronous JavaScript and XML, usada para realizar requisições assíncronas no navegador, permitindo atualizações de página sem recarregar toda a página"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é uma biblioteca em programação?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um local onde se guarda o código-fonte de um projeto"
+                },
+                {
+                    "type": "text",
+                    "text": "Um conjunto de códigos de programação já escritos e prontos para serem reutilizados em diferentes projetos"
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de variável em programação"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "Explique o que é um framework em programação.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um modelo matemático para resolver problemas complexos"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma ferramenta utilizada para criar interfaces gráficas"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma estrutura de código que fornece funcionalidades prontas e padrões para facilitar o desenvolvimento de software"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é o paradigma MVC (Model-View-Controller)?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um modelo de organização de bancos de dados"
+                },
+                {
+                    "type": "text",
+                    "text": "Um modelo para criar interfaces gráficas"
+                },
+                {
+                    "type": "text",
+                    "text": "Um padrão de arquitetura de software que separa a lógica de negócios (Model), a apresentação (View) e a lógica de controle (Controller) em um aplicativo"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um ambiente de desenvolvimento integrado (IDE)?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um sistema operacional para desenvolvimento de software"
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de linguagem de programação"
+                },
+                {
+                    "type": "text",
+                    "text": "Um software que combina ferramentas para auxiliar o desenvolvimento de software, como editor de texto, depurador e compilador"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é uma linguagem de programação de baixo nível e dê exemplos.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação mais fácil de aprender"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação que se assemelha mais à linguagem humana"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação que se aproxima da linguagem de máquina e é mais próxima do hardware, como Assembly"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é uma linguagem de programação de alto nível e dê exemplos.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação difícil de aprender"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação que se assemelha à linguagem de máquina"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação mais próxima da linguagem humana e de alto nível de abstração, como Python, Java, C#"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um algoritmo de ordenação e dê exemplos.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um algoritmo para organizar arquivos em uma pasta"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo para organizar números em uma sequência específica"
+                },
+                {
+                    "type": "text",
+                    "text": "Um método para organizar os elementos de uma lista ou array em uma ordem específica, como Bubble Sort, Insertion Sort, Quick Sort"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um algoritmo de busca e dê exemplos.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um algoritmo para procurar por palavras em um texto"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo para encontrar um elemento específico em uma lista ou array"
+                },
+                {
+                    "type": "text",
+                    "text": "Um método para encontrar a posição de um elemento em uma lista ou array, como Busca Linear, Busca Binária"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é Big O notation e qual é a sua importância na análise de algoritmos?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Uma notação matemática para descrever números grandes"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma notação para descrever a complexidade de tempo e espaço de um algoritmo em termos do tamanho da entrada"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma técnica para medir o tamanho de arquivos em um sistema de computação"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é um framework front-end e dê exemplos.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um framework para criar bancos de dados"
+                },
+                {
+                    "type": "text",
+                    "text": "Um framework para gerenciar o servidor de um website"
+                },
+                {
+                    "type": "text",
+                    "text": "Um framework que fornece estrutura e funcionalidades para desenvolvimento da interface do usuário em um aplicativo web, como React.js, Angular, Vue.js"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um framework back-end e dê exemplos.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um framework para criar interfaces gráficas"
+                },
+                {
+                    "type": "text",
+                    "text": "Um framework para criar bancos de dados"
+                },
+                {
+                    "type": "text",
+                    "text": "Um framework que fornece estrutura e funcionalidades para o desenvolvimento da lógica de negócios e manipulação de dados em um aplicativo web, como Django, Flask, Express.js"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um servidor web e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um servidor para armazenar arquivos de áudio e vídeo"
+                },
+                {
+                    "type": "text",
+                    "text": "Um computador responsável por gerenciar a rede local de uma empresa"
+                },
+                {
+                    "type": "text",
+                    "text": "Um software que hospeda e distribui páginas web para clientes que solicitam acesso a elas através da internet"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é uma linguagem de programação funcional e dê exemplos.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação para criar interfaces gráficas"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação para realizar operações matemáticas"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação baseada no paradigma funcional, onde as funções são tratadas como cidadãos de primeira classe, como Haskell, Lisp, Clojure"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é uma linguagem de programação procedural e dê exemplos.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação para criar interfaces gráficas"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação para realizar operações matemáticas"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação baseada no paradigma procedural, onde as instruções são executadas sequencialmente, como C, Pascal"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é uma linguagem de programação orientada a objetos e dê exemplos.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação para criar interfaces gráficas"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação para realizar operações matemáticas"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma linguagem de programação baseada no paradigma de orientação a objetos, onde os objetos são entidades que possuem características (atributos) e comportamentos (métodos), como Java, C++, Python"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um sistema de controle de versão distribuído e dê exemplos.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um sistema operacional para controle de versão"
+                },
+                {
+                    "type": "text",
+                    "text": "Um sistema de controle de versão que armazena todos os arquivos em um único servidor centralizado"
+                },
+                {
+                    "type": "text",
+                    "text": "Um sistema de controle de versão em que cada usuário tem uma cópia do repositório e pode trabalhar offline, como Git, Mercurial"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um algoritmo recursivo e dê exemplos.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um algoritmo que funciona apenas em redes neurais"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo que chama a si mesmo para resolver um problema menor, geralmente usado para resolver problemas dividir e conquistar, como o algoritmo de Fibonacci"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo para organizar os elementos de uma lista ou array em uma ordem específica"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é um banco de dados relacional e dê exemplos.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um banco de dados usado apenas para armazenar números"
+                },
+                {
+                    "type": "text",
+                    "text": "Um banco de dados que armazena dados em tabelas relacionadas por chaves estrangeiras, como MySQL, PostgreSQL, Oracle"
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de banco de dados que armazena dados em documentos de texto"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é um banco de dados NoSQL e dê exemplos.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um banco de dados usado apenas para armazenar números"
+                },
+                {
+                    "type": "text",
+                    "text": "Um banco de dados relacional"
+                },
+                {
+                    "type": "text",
+                    "text": "Um banco de dados que não utiliza o modelo relacional tradicional, como MongoDB, Cassandra, Redis"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um algoritmo de hashing e para que é utilizado?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um algoritmo para criptografar mensagens"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo para encontrar a raiz quadrada de um número"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo que mapeia dados de tamanho arbitrário para dados de tamanho fixo, geralmente usado para indexação e verificação de integridade de dados, como MD5, SHA-256"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é criptografia e qual é a sua importância na segurança da informação?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um tipo de algoritmo de ordenação"
+                },
+                {
+                    "type": "text",
+                    "text": "Um método para ocultar informações"
+                },
+                {
+                    "type": "text",
+                    "text": "Um conjunto de técnicas para proteger informações sensíveis através de codificação, de modo que apenas o destinatário autorizado possa decodificar e ler os dados"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um compilador e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um programa para executar algoritmos de busca"
+                },
+                {
+                    "type": "text",
+                    "text": "Um programa para criar interfaces gráficas"
+                },
+                {
+                    "type": "text",
+                    "text": "Um software que traduz o código-fonte de uma linguagem de programação para código de máquina, facilitando a execução do programa em um computador"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um interpretador e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um programa para criar interfaces gráficas"
+                },
+                {
+                    "type": "text",
+                    "text": "Um software que traduz o código-fonte de uma linguagem de programação para código de máquina"
+                },
+                {
+                    "type": "text",
+                    "text": "Um programa que lê e executa o código-fonte de uma linguagem de programação linha por linha, convertendo-o em instruções compreensíveis para o computador em tempo de execução"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "Qual é a importância da documentação em projetos de desenvolvimento de software?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Facilitar a comunicação entre os membros da equipe"
+                },
+                {
+                    "type": "text",
+                    "text": "Facilitar a compreensão do código e acelerar o processo de manutenção e correção de bugs"
+                },
+                {
+                    "type": "text",
+                    "text": "Reduzir o número de linhas de código em um projeto"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é DevOps e qual é o seu objetivo?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um tipo de linguagem de programação"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma cultura de práticas que visa integrar o desenvolvimento de software com operações de TI, automatizar processos e fornecer entrega contínua de software de alta qualidade"
+                },
+                {
+                    "type": "text",
+                    "text": "Um conjunto de ferramentas para criar interfaces gráficas"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é um container de software e qual é a sua utilidade?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um dispositivo de armazenamento externo para computadores"
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de software utilizado para criar interfaces gráficas"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma unidade de software que empacota código e suas dependências para que o aplicativo seja executado de maneira rápida e confiável em diferentes ambientes, independentemente das diferenças de infraestrutura"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um algoritmo de aprendizado de máquina e qual é a sua utilidade?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um algoritmo usado para limpar bancos de dados"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo que aprende a partir de dados e faz previsões ou decisões"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo utilizado apenas para classificar dados em categorias"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é um algoritmo genético e para que é utilizado?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um algoritmo usado para criar gráficos em computadores"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo que gera soluções para problemas baseado em processos de seleção natural e genética"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo utilizado apenas para calcular médias em um conjunto de dados"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é um algoritmo de árvore de decisão e dê exemplos de aplicações.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um algoritmo para criar árvores de pasta em um sistema operacional"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo que simula o processo de decisão humano, onde cada nó representa uma decisão com múltiplas alternativas e cada ramo representa um resultado possível dessa decisão"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo utilizado apenas para organizar dados em forma de árvore"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é um algoritmo de agrupamento (clustering) e dê exemplos de aplicações.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um algoritmo para agrupar palavras em um texto"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo que divide um conjunto de objetos em grupos homogêneos baseados em características similares"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo utilizado apenas para organizar dados em uma sequência específica"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é um algoritmo de regressão e dê exemplos de aplicações.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um algoritmo para regredir a qualidade de um produto"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo para encontrar padrões em um conjunto de dados"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo que modela a relação entre uma variável dependente e uma ou mais variáveis independentes, geralmente usado para fazer previsões"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é uma rede neural e dê exemplos de aplicações.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Uma rede de computadores conectados entre si"
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de algoritmo de aprendizado de máquina que simula o funcionamento do cérebro humano, composto por neurônios artificiais interconectados"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma rede de televisão especializada em programas sobre computadores"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é um algoritmo de mineração de dados e dê exemplos de aplicações.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um algoritmo que extrai minerais de depósitos subterrâneos"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo para organizar dados em uma sequência específica"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo utilizado para descobrir padrões e relações em grandes conjuntos de dados, como recomendação de produtos em sites de e-commerce, detecção de fraudes financeiras"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um algoritmo de otimização e dê exemplos de aplicações.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um algoritmo utilizado para otimizar o desempenho de um computador"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo que seleciona a melhor opção dentre um conjunto de alternativas, levando em consideração critérios específicos"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo que organiza dados em uma sequência específica para melhorar a eficiência do processamento"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é um algoritmo de compressão de dados e dê exemplos de aplicações.",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um algoritmo utilizado para encurtar o tempo de processamento de grandes conjuntos de dados"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo para descomprimir arquivos compactados"
+                },
+                {
+                    "type": "text",
+                    "text": "Um algoritmo que reduz o tamanho de arquivos de dados, geralmente usado para economizar espaço de armazenamento e melhorar a eficiência da transmissão de dados pela internet, como algoritmos ZIP, JPEG, MP3"
+                }
+            ],
+            "correctAnswerIndex": 2
+        }
+    ]
+} 

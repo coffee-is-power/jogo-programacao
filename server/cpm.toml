@@ -1,0 +1,10 @@
+[package]
+name = "server"
+version = "0.1.0"
+# src_folder = "src"
+# include_folder = "include"
+# additional_compiler_flags = [...]
+# additional_linker_flags = [...]
+# enable_pthread_library = false
+# enable_math_library = false
+# disable_std_library = false

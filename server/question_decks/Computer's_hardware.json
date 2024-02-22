@@ -1,0 +1,347 @@
+{
+    "display_name": "Hardware de Computadores",
+    "questions": [
+        {
+            "question": "O que é uma placa-mãe e qual é a sua função principal?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Uma placa de vídeo que se conecta diretamente à CPU para processamento gráfico"
+                },
+                {
+                    "type": "text",
+                    "text": "O componente principal de um computador que abriga o processador, memória, conectores de expansão e outros circuitos integrados importantes, fornecendo conectividade e comunicação entre eles"
+                },
+                {
+                    "type": "text",
+                    "text": "Um dispositivo de armazenamento usado para manter os dados do sistema operacional e dos programas"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é uma CPU e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um dispositivo de entrada que permite ao usuário interagir com o computador"
+                },
+                {
+                    "type": "text",
+                    "text": "O componente responsável por processar instruções e executar operações lógicas e aritméticas em um computador"
+                },
+                {
+                    "type": "text",
+                    "text": "Um componente de saída que exibe informações na tela do computador"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é a memória RAM e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um tipo de memória permanente usada para armazenar dados de forma não volátil"
+                },
+                {
+                    "type": "text",
+                    "text": "A memória principal de um computador usada para armazenar dados temporários e instruções que estão sendo processadas pela CPU"
+                },
+                {
+                    "type": "text",
+                    "text": "Um dispositivo de entrada que permite ao usuário interagir com o computador"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é uma placa de vídeo e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um componente usado para armazenar dados de longo prazo"
+                },
+                {
+                    "type": "text",
+                    "text": "Um dispositivo que exibe informações visuais na tela do computador, incluindo gráficos, imagens e vídeos"
+                },
+                {
+                    "type": "text",
+                    "text": "Um componente de entrada que permite ao usuário interagir com o computador"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é uma unidade de disco rígido (HD) e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um componente responsável por processar instruções e executar operações lógicas e aritméticas em um computador"
+                },
+                {
+                    "type": "text",
+                    "text": "Um dispositivo usado para armazenar dados de forma permanente, incluindo o sistema operacional, programas e arquivos do usuário"
+                },
+                {
+                    "type": "text",
+                    "text": "Um dispositivo de saída que exibe informações na tela do computador"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é uma unidade de estado sólido (SSD) e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um tipo de memória RAM usada para armazenar dados temporários"
+                },
+                {
+                    "type": "text",
+                    "text": "Um dispositivo de armazenamento que utiliza memória flash para armazenar dados de forma permanente, oferecendo maior velocidade de leitura e gravação em comparação com discos rígidos tradicionais"
+                },
+                {
+                    "type": "text",
+                    "text": "Um dispositivo de entrada que permite ao usuário interagir com o computador"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é uma fonte de alimentação e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um dispositivo de entrada que permite ao usuário interagir com o computador"
+                },
+                {
+                    "type": "text",
+                    "text": "O componente responsável por fornecer energia elétrica a todos os componentes do computador, convertendo a corrente alternada da tomada em corrente contínua de baixa voltagem necessária para o funcionamento dos dispositivos"
+                },
+                {
+                    "type": "text",
+                    "text": "Um dispositivo usado para armazenar dados de forma permanente"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é uma placa de rede e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um dispositivo usado para armazenar dados de forma permanente"
+                },
+                {
+                    "type": "text",
+                    "text": "Um componente responsável por conectar o computador a uma rede, permitindo a comunicação com outros dispositivos e o acesso à internet"
+                },
+                {
+                    "type": "text",
+                    "text": "Um dispositivo de entrada que permite ao usuário interagir com o computador"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é um gabinete de computador e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um dispositivo usado para armazenar dados de forma permanente"
+                },
+                {
+                    "type": "text",
+                    "text": "A estrutura física que abriga todos os componentes internos do computador, fornecendo proteção, refrigeração e organização aos dispositivos"
+                },
+                {
+                    "type": "text",
+                    "text": "Um dispositivo de entrada que permite ao usuário interagir com o computador"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é um dissipador de calor e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um dispositivo de entrada que permite ao usuário interagir com o computador"
+                },
+                {
+                    "type": "text",
+                    "text": "Um componente usado para armazenar dados de forma permanente"
+                },
+                {
+                    "type": "text",
+                    "text": "Um componente que ajuda a dissipar o calor gerado pelo processador, mantendo sua temperatura dentro dos limites operacionais seguros"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um slot de expansão e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um dispositivo usado para conectar o computador a uma rede"
+                },
+                {
+                    "type": "text",
+                    "text": "Um conector na placa-mãe que permite a instalação de placas de expansão, como placas de vídeo, placas de som e placas de rede, para adicionar funcionalidades ao computador"
+                },
+                {
+                    "type": "text",
+                    "text": "Um componente responsável por processar instruções e executar operações lógicas e aritméticas em um computador"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é a BIOS e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "O componente responsável por fornecer energia elétrica a todos os componentes do computador"
+                },
+                {
+                    "type": "text",
+                    "text": "O firmware que inicializa o hardware do computador durante o processo de inicialização, realizando verificações de hardware, identificando e iniciando dispositivos e carregando o sistema operacional na memória"
+                },
+                {
+                    "type": "text",
+                    "text": "Um dispositivo usado para armazenar dados de forma permanente"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é a CMOS e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "O componente responsável por processar instruções e executar operações lógicas e aritméticas em um computador"
+                },
+                {
+                    "type": "text",
+                    "text": "O firmware que inicializa o hardware do computador durante o processo de inicialização, realizando verificações de hardware, identificando e iniciando dispositivos e carregando o sistema operacional na memória"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma pequena bateria localizada na placa-mãe que fornece energia para manter as configurações do BIOS, como data, hora e configurações do sistema, mesmo quando o computador está desligado"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é a GPU e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um componente usado para armazenar dados de forma permanente"
+                },
+                {
+                    "type": "text",
+                    "text": "O componente responsável por processar instruções e executar operações lógicas e aritméticas em um computador"
+                },
+                {
+                    "type": "text",
+                    "text": "O processador gráfico responsável por processar informações visuais, incluindo gráficos, imagens e vídeos, aliviando a carga de trabalho da CPU"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é um conector SATA e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um tipo de conector usado para conectar periféricos, como mouse e teclado, ao computador"
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de conector usado para conectar dispositivos de armazenamento, como discos rígidos e unidades de estado sólido, à placa-mãe, permitindo a transferência de dados em alta velocidade"
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de conector usado para conectar o monitor ao computador"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é um conector PCIe e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um tipo de conector usado para conectar dispositivos de armazenamento, como discos rígidos e unidades de estado sólido, à placa-mãe, permitindo a transferência de dados em alta velocidade"
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de conector usado para conectar periféricos, como mouse e teclado, ao computador"
+                },
+                {
+                    "type": "text",
+                    "text": "Um tipo de conector usado para conectar placas de expansão, como placas de vídeo e placas de som, à placa-mãe, fornecendo comunicação de alta velocidade entre os dispositivos"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é a CPU socket e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "O local onde a CPU armazena temporariamente dados e instruções enquanto está sendo processada"
+                },
+                {
+                    "type": "text",
+                    "text": "O componente responsável por processar instruções e executar operações lógicas e aritméticas em um computador"
+                },
+                {
+                    "type": "text",
+                    "text": "O slot na placa-mãe que aloja o processador, permitindo a conexão física e elétrica entre a CPU e a placa-mãe"
+                }
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "O que é o chip de BIOS e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "O componente responsável por processar instruções e executar operações lógicas e aritméticas em um computador"
+                },
+                {
+                    "type": "text",
+                    "text": "O firmware que inicializa o hardware do computador durante o processo de inicialização, realizando verificações de hardware, identificando e iniciando dispositivos e carregando o sistema operacional na memória"
+                },
+                {
+                    "type": "text",
+                    "text": "Uma pequena memória de armazenamento de acesso aleatório usada para armazenar dados temporários e instruções que estão sendo processadas pela CPU"
+                }
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "O que é o barramento do sistema (FSB) e qual é a sua função?",
+            "answers": [
+                {
+                    "type": "text",
+                    "text": "Um tipo de conector usado para conectar dispositivos de armazenamento, como discos rígidos e unidades de estado sólido, à placa-mãe, permitindo a transferência de dados em alta velocidade"
+                },
+                {
+                    "type": "text",
+                    "text": "O componente responsável por fornecer energia elétrica a todos os componentes do computador"
+                },
+                {
+                    "type": "text",
+                    "text": "O canal de comunicação que permite a transferência de dados entre a CPU, a memória RAM e outros componentes do sistema, determinando a velocidade e a largura de banda do sistema"
+                }
+            ],
+            "correctAnswerIndex": 2
+        }
+    ]
+}
